@@ -36,7 +36,7 @@ npm install @mui/icons-material
 npm run dev
 ```
 ```bash
-Abrir [http://localhost:5173/](http://localhost:5173/)
+Abrir [http://localhost:5173/]
 ```
 
 ## Estructura de Carpetas y Archivos
