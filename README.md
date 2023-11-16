@@ -1,4 +1,3 @@
-# Kululu Handicrafts Frontend
 
 Este proyecto React utiliza Create React App con TypeScript y Material-UI.
 
